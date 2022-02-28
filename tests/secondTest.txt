@@ -1,0 +1,14 @@
+DEFINE b 4
+DEFINE с 7
+DEFINE d 12
+DEFINE e 16
+PUSH a
+PUSH b
+PUSH с
+PUSH d
+PUSH e
+SQRT
+-
++
+*
+/
